@@ -1,0 +1,6 @@
+{
+  "name": "DEADLANDS: Coastline",
+  "description": "Hardcore open-world survival game set on a bleak 2km x 2km post-Soviet Baltic island with procedural terrain streaming, physiological exposure mechanics, grid inventory, and infected AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
